@@ -49,10 +49,12 @@ ul
  
 .footer 
 {
-      background-color: var (--red);
-      color: white;
-      text-align: center;
-      
+      background-color: var(--red);
+    box-shadow: 1px 1px 5px 0px var(--grey);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    text-align:center;
 }
 
 .logo
