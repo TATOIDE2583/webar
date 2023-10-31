@@ -39,11 +39,19 @@ ul
 
 .header
 {
-    background-color: red;
+    background-color: var(--red);
     box-shadow: 1px 1px 5px 0px var(--grey);
     position: sticky;
     top: 0;
     width: 100%;
+}
+ 
+.footer 
+{
+      background-color: red;
+      color: white;
+      text-align: center;
+      padding: 10px;
 }
 
 .logo
@@ -183,12 +191,7 @@ text-align: justify;
       position: relative;
       } 
     
-    .footer {
-      background-color: red;
-      color: white;
-      text-align: center;
-      padding: 10px;
-    }
+   
   
     
 }
