@@ -39,7 +39,7 @@ ul
 
 .header
 {
-    background-color: solid(--red);
+    background-color: var(--red);
     box-shadow: 1px 1px 5px 0px var(--grey);
     position: sticky;
     top: 0;
