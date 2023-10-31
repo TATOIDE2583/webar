@@ -44,14 +44,15 @@ ul
     position: sticky;
     top: 0;
     width: 100%;
+    text-align:center;
 }
  
 .footer 
 {
-      background-color: red;
+      background-color: var (--red);
       color: white;
       text-align: center;
-      padding: 10px;
+      
 }
 
 .logo
