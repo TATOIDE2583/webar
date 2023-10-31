@@ -183,12 +183,12 @@ text-align: justify;
       position: relative;
       } 
     
-    footer {
+    .footer {
       background-color: red;
       color: white;
       text-align: center;
       padding: 10px;
     }
-  </style>
+  
     
 }
